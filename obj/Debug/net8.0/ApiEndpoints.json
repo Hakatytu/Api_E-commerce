@@ -1,0 +1,64 @@
+[
+  {
+    "ContainingType": "StoreApi2.User.User1Routes\u002B\u003C\u003Ec",
+    "Method": "\u003CAddRoutesUser1\u003Eb__0_0",
+    "RelativePath": "User1/",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "StoreApi2.User.AddUser1Request",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "StoreApi2.User.User1Routes\u002B\u003C\u003Ec",
+    "Method": "\u003CAddRoutesUser1\u003Eb__0_1",
+    "RelativePath": "User1/",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[StoreApi2.User.User1Dto, StoreApi2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "StoreApi2.User.User1Routes\u002B\u003C\u003Ec",
+    "Method": "\u003CAddRoutesUser1\u003Eb__0_2",
+    "RelativePath": "User1/login",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
