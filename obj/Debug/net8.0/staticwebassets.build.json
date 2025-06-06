@@ -1,12 +1,11 @@
 {
   "Version": 1,
-  "Hash": "NAbGhs8GOXFrpzlWxUu2DLE/q6O4naVsLM7jx8jqItw=",
+  "Hash": "KjjlCc6a9x+Ovhse2KIQNza4rdRTFcjmIDUuuYfgVXI=",
   "Source": "StoreApi2",
   "BasePath": "_content/StoreApi2",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": []
 }
